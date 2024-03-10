@@ -28,7 +28,7 @@
  
     
  
-  "url": "https://github.com/wenyuxi146/wwwtea"
+  "url": "git+https://github.com/wenyuxi146/wwwtea.git"
   
  
   },
@@ -43,29 +43,9 @@
   "license": "ISC",
   
  
-  "dependencies": {
-  
- 
-    
- 
+  "dependencies": { 
   "name": "wwwtea",
-  
- 
-    
- 
-  "version": "1.0.0",
-  
- 
-    
- 
-  "ethers": "^6.11.1"
-  
- 
-  },
-  
- 
-  "name": "wwwtea",
-  
- 
   "version": "1.0.0"
+ 
+  }
 }
