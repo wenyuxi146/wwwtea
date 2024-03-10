@@ -1,11 +1,11 @@
 {
-  
- 
+
+
+
+  "name": "wwwtea",
+  "version": "1.0.0",
   "description": "",
-  
- 
   "main": "index.js",
-  
  
   "scripts": {
   
@@ -18,10 +18,7 @@
   },
   
  
-  "repository": {
-  
- 
-    
+  "repository": { 
  
   "type": "git",
   
@@ -44,8 +41,6 @@
   
  
   "dependencies": { 
-  "name": "wwwtea",
-  "version": "1.0.0"
  
   }
 }
